@@ -37,7 +37,7 @@ body {
 .yellow {
   background-color: yellow;
 }
-.pressed {
+.pressed, .demonstrate {
   box-shadow: 0 0 20px white; /* Adds a white glow */
   /* background-color: grey;     Changes the background color */
   opacity: 0.8;   
